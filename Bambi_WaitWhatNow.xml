@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BambiSplitathon.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="what0000" x="0" y="0" width="240" height="269" frameX="-3" frameY="0" frameWidth="252" frameHeight="273"/>
+	<SubTexture name="what0001" x="0" y="0" width="240" height="269" frameX="-3" frameY="0" frameWidth="252" frameHeight="273"/>
+	<SubTexture name="what0002" x="0" y="269" width="246" height="251" frameX="-4" frameY="-10" frameWidth="252" frameHeight="273"/>
+	<SubTexture name="what0003" x="0" y="269" width="246" height="251" frameX="-4" frameY="-10" frameWidth="252" frameHeight="273"/>
+	<SubTexture name="what0004" x="0" y="520" width="252" height="234" frameX="0" frameY="-21" frameWidth="252" frameHeight="273"/>
+	<SubTexture name="what0005" x="0" y="520" width="252" height="234" frameX="0" frameY="-21" frameWidth="252" frameHeight="273"/>
+	<SubTexture name="what0006" x="0" y="754" width="234" height="270" frameX="-7" frameY="-3" frameWidth="252" frameHeight="273"/>
+	<SubTexture name="what0007" x="0" y="754" width="234" height="270" frameX="-7" frameY="-3" frameWidth="252" frameHeight="273"/>
+</TextureAtlas>

@@ -1,0 +1,3 @@
+Some .fla files don't have their sprite and xml as I haven't generated a sprite sheet for them yet 
+(I say that because in adobe animate there is a tool called ''generate sprite sheet'') and I won't break my back 
+doing that because It's 9:00 in the morning and I'd get tired, but don't worry! soon the sprites and xml will be ready!
